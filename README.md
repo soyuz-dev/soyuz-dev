@@ -3,4 +3,4 @@
 - 🌱 I’m currently making a game engine with Kotlin
 - 💞️ I’m looking to collaborate on Kotlin projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wanted to go to Java(island) for vacation and learn Java(programming language) there.
+- ⚡ Fun fact: I wanted to go to Java(island) for vacation and learn Java(programming language) there. But I already now know Java so there's no use :)
